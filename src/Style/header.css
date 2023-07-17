@@ -1,0 +1,38 @@
+.nav {
+  background: #cfd8dc8c;
+  padding: 15px;
+}
+.dropdown-toggle::after {
+  vertical-align: -0.3em !important;
+}
+.nav-lnk a {
+  position: relative;
+  text-decoration: none;
+  transition: all 0.3s ease; /* Smooth transition duration */
+}
+.nav-lnk a:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0; /* Start with width set to 0 */
+  height: 2px;
+  background-color: rgb(219, 60, 60);
+  bottom: -2px;
+  left: 6px;
+  opacity: 0;
+  transition: all 0.3s ease; /* Smooth transition duration */
+}
+
+.nav-lnk a:hover:after,
+.nav-lnk a.active:after {
+  width: 70%; /* Change width to 100% on hover or active */
+  opacity: 1;
+}
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
+@media screen and (max-width: 991px) {
+  .nav-lnk a {
+    width: fit-content !important;
+  }
+}

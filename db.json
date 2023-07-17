@@ -1,0 +1,216 @@
+{
+  "products": [
+    {
+      "name": "White Pockets Plain Slim Fit Jeans Pants",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/41UNLFk9IxL._AC_.jpg",
+      "items": 10,
+      "sale": "new",
+      "clr": "white",
+      "title": "Jeans Pants",
+      "id": 2
+    },
+    {
+      "id": 6,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "Clover hoodie",
+      "image": "https://m.media-amazon.com/images/I/51iotlrhs4L._AC_SL1500_.jpg",
+      "name": "Black Clover hoodie1",
+      "price": 399,
+      "items": 70
+    },
+    {
+      "name": "Maestro Uncle Packet-142",
+      "price": 70,
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/517OfaGAFML._AC_SR462,693_.jpg",
+      "items": 45,
+      "sale": "new",
+      "clr": "white",
+      "title": "Uncle Packet",
+      "id": 7
+    },
+    {
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41VMpTmRY7L._SL500_._AC_SL500_.jpg",
+      "name": "Bella Cotton BCS68 Drawstring Short",
+      "price": "170",
+      "items": 100,
+      "id": 9,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "Drawstring Short"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51EZ8jbPukL._AC_SL1377_.jpg",
+      "name": "TIA Casual Zip Fur Sleeve Hooded Jacket with Suede",
+      "price": "280",
+      "items": 100,
+      "id": 10,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "Hooded Jacket"
+    },
+    {
+      "image": "https://www.angeljackets.com/uk/product_images/t/857/Shearling_Leather_Womens_Jacket__04704_zoom.jpg",
+      "name": "jacket lined with fur",
+      "price": "1100",
+      "items": 100,
+      "id": 11,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "jacket"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/31EFzZ6XRNL._AC_SY400_.jpg",
+      "name": "Kitten Kids Boys Waterproof Zipper Hooded Jacket",
+      "price": "309",
+      "items": 100,
+      "id": 12,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "Hooded Jacket"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/41W5KtH2flL._AC_.jpg",
+      "name": "Italiano Suede half boot",
+      "price": "375",
+      "items": 100,
+      "id": 13,
+      "sale": "new",
+      "bg": "black",
+      "clr": "white",
+      "title": "half boot"
+    },
+    {
+      "name": "Coton-Shirt",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/418geh-iImL._AC_SX569_.jpg",
+      "items": 20,
+      "sale": "new",
+      "clr": "black",
+      "title": "White-Shirt",
+      "id": 14
+    },
+    {
+      "name": "T-Shirts - Tops, Tees & Shirts‏",
+      "price": 50,
+      "image": "https://m.media-amazon.com/images/I/31bAl9H88oL._AC_SR300,300.jpg",
+      "items": 20,
+      "sale": "new",
+      "clr": "black",
+      "title": "black-solid-shirt",
+      "id": 16
+    }
+  ],
+  "users": [
+    {
+      "username": "Chile",
+      "firstname": "Laura",
+      "lastname": "Garner",
+      "email": "sijovowib@lahhad.es",
+      "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZWwlMjBnaXJsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "password": "22222222",
+      "mobile": "01234567",
+      "gender": "female",
+      "role": "member",
+      "city": "New Zealand",
+      "id": "2"
+    },
+    {
+      "username": "Nauru",
+      "firstname": "Jesse",
+      "lastname": "Richards",
+      "email": "kudfoh@bowa.kn",
+      "image": "https://images.unsplash.com/photo-1611042553365-9b101441c135?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9kZWwlMjBnaXJsfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "password": "22222222",
+      "mobile": "01234567",
+      "gender": "female",
+      "role": "admin",
+      "city": "Taiwan",
+      "id": "3"
+    },
+    {
+      "username": "QueenGirl",
+      "firstname": "Jesseca",
+      "lastname": "Richards",
+      "email": "Jecy@a.aa",
+      "image": "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1vZGVsJTIwZ2lybHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "password": "33333333",
+      "mobile": "012345673",
+      "gender": "female",
+      "role": "admin",
+      "city": "Austria",
+      "id": "4"
+    },
+    {
+      "username": "Mustafa Pato",
+      "firstname": "Mustafa",
+      "lastname": "Pato",
+      "email": "aaaaa@aaa.aaa",
+      "image": "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aGFja2VyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "password": "asd",
+      "mobile": "01111680029",
+      "gender": "male",
+      "city": "Norway",
+      "role": "member",
+      "id": "AKiCCy0"
+    },
+    {
+      "username": "Nona-Magnona",
+      "firstname": "Nona",
+      "lastname": "Zain",
+      "email": "nona@asd.asd",
+      "image": "https://images.unsplash.com/photo-1536463726684-434ca0eeea33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGlzbGFtaWMlMjB3b21hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "password": "122005mm",
+      "mobile": "1234123123",
+      "gender": "female",
+      "role": "member",
+      "city": "Giza",
+      "id": "xJfN5ZN"
+    },
+    {
+      "username": "Zahraa-Fatma",
+      "firstname": "Fatma",
+      "lastname": "Zain",
+      "email": "zahraa-fatma@aa.com",
+      "image": "https://images.unsplash.com/photo-1547527392-bd5d50305ca0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGlzbGFtaWMlMjB3b21hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "password": "123123123123",
+      "mobile": "0111111111",
+      "gender": "female",
+      "role": "member",
+      "city": "Cairo",
+      "id": "pxT3GS_"
+    },
+    {
+      "username": "MustafaPato",
+      "firstname": "Mustafa",
+      "lastname": "Pato",
+      "email": "mustafa@gmail.com",
+      "image": "https://images.unsplash.com/photo-1557053965-cdbebf329f98?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHN1cGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "password": "mm181997",
+      "mobile": "01222222",
+      "gender": "male",
+      "role": "admin",
+      "city": "Giza",
+      "id": "l12Mq9o"
+    },
+    {
+      "username": "MustafaPato",
+      "firstname": "Mustafa",
+      "lastname": "Pato",
+      "email": "mustafazainhom@gmail.com",
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "password": "11111111111m",
+      "mobile": "1111680029",
+      "gender": "male",
+      "role": "member",
+      "city": "Giza",
+      "id": "QCd31wR"
+    }
+  ]
+}

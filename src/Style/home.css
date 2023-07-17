@@ -1,0 +1,60 @@
+.home-landing {
+  background: url("../images/hero/hero-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+.ads {
+  background: url(../images/about-us.jpg);
+  background-size: cover;
+  object-fit: cover;
+  background-attachment: fixed;
+  height: 10vh;
+  margin-bottom: 2rem;
+  position: relative;
+  color: #fff;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ads::after {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #000000b2;
+  z-index: -1;
+}
+@keyframes moveRight {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+@media screen and (max-width: 767px) {
+  .landing-txt {
+    max-width: 90% !important;
+    align-items: center;
+    display: flex;
+    flex-flow: wrap;
+    height: 80%;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 900px) {
+  .landing-txt {
+    max-width: 50% !important;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 80%;
+  }
+}
